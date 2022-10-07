@@ -1,0 +1,31 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "This repo contains a websitre build with bootstrap",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.6.2",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "keywords": [
+    "BootStrap",
+    "html",
+    "css",
+    "sass",
+    "npm",
+    "gulp"
+  ],
+  "author": "Prince Singh",
+  "license": "ISC"
+}
